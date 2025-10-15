@@ -1,3 +1,42 @@
+# Mubarak Blog - Frontend Developer Challenge
+
+A simple and elegant blog app built with **React**, **TypeScript**, and **Tailwind CSS (v4)** for the frontend developer screening task.
+
+## 🚀 Features
+- Fetches posts from [JSONPlaceholder](https://jsonplaceholder.typicode.com/posts)
+- Displays a list of blog posts
+- Individual post detail page
+- Search functionality
+- Responsive design (mobile-first)
+- Clean and custom styling with Tailwind CSS
+- Author information fetched dynamically
+- Uses React Router and Axios
+
+## 🧑‍💻 Tech Stack
+- React + TypeScript
+- Tailwind CSS (v4)
+- Axios
+- React Router DOM
+- Vite
+
+## 📦 Setup
+```bash
+# Clone this repo
+git clone https://github.com/YOUR_USERNAME/frontend-blog-challenge.git
+cd frontend-blog-challenge
+
+# Install dependencies
+npm install
+
+# Run locally
+npm run dev
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
