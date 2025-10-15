@@ -31,6 +31,10 @@ npm install
 # Run locally
 npm run dev
 
+🌐 Live Demo
+
+👉 frontend-developer-screening-test-r.vercel.app
+
 
 
 
